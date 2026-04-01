@@ -1,5 +1,6 @@
 # lampogno.github.com
 À propos
+
 LAMPOGNO est une organisation communautaire de la société civile œuvrant pour la bonne gouvernance environnementale et la gestion durable des ressources naturelles dans le paysage MaMaBaie, au nord-est de Madagascar.
 L’organisation promeut la participation active des communautés locales à la protection de l’environnement et à l’amélioration durable de leurs moyens de subsistance, en favorisant des pratiques inclusives et responsables.
 
