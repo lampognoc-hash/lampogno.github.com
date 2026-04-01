@@ -8,13 +8,16 @@ L’organisation promeut la participation active des communautés locales à la 
 Promouvoir la participation active des communautés locales à la protection de l’environnement et à l’amélioration de leurs moyens de subsistance à travers la gouvernance environnementale, le plaidoyer, la sensibilisation et le développement d’alternatives durables.
 
 🌱 Vision
+
 Des communautés autonomes, résilientes et responsables, vivant en harmonie avec leur environnement.
 
 📍 Zone d’intervention
+
 Paysage MaMaBaie, nord-est de Madagascar
 (Aires côtières, zones forestières et territoires communautaires associés)
 
 🔎 Principaux domaines d’intervention
+
 1️⃣ Gouvernance environnementale
 Renforcement des capacités locales
 Veille stratégique et suivi des politiques publiques
@@ -33,13 +36,16 @@ Valorisation des produits forestiers non ligneux
 Initiatives alternatives réduisant la pression sur les ressources naturelles
 
 🏛 Statut juridique et gouvernance
+
 LAMPOGNO est une organisation de la société civile légalement constituée selon la législation malagasy, disposant de statuts enregistrés et d’un récépissé officiel délivré par l’administration compétente.
 
 🔹 Organes de gouvernance
+
 Assemblée Générale : organe suprême de décision
 Bureau de Coordination : chargé de la mise en œuvre des activités
 
 🔹 Composition du Bureau
+
 Coordinateur principal
 Deux coordinateurs chargés de volets spécifiques
 Secrétaire
